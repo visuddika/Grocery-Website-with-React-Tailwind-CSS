@@ -17,5 +17,6 @@ A modern, responsive grocery e-commerce website built using **React**, **Tailwin
 - 🔄 React Router (if used)
 - 📦 npm or yarn
 
-## 📁 Project Structure
+## 📁 Project Structure<img width="1919" height="913" alt="Screenshot 2025-07-20 204721" src="https://github.com/user-attachments/assets/01d35838-2afe-4f6f-93ce-324962086938" />
+
 
